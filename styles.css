@@ -1,0 +1,62 @@
+body {
+    background-color: lightblue;
+}
+
+.title {
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.body {
+    background-color: white;
+    height: 540px;
+}
+
+.bodyfuturemod {
+    background-color: white;
+    height: 660px;
+}
+
+.bodylumbermod {
+    background-color: white;
+    height: 620px;
+}
+
+.bodyoresplus {
+    background-color: white;
+    height: 590px;
+}
+
+.bodybuildingexpansion {
+    background-color: white;
+    height: 1120px;
+}
+
+.mymods {
+    height: 30px;
+}
+
+.buildingexpansion {
+    width: 150px;
+    height: 30px;
+}
+
+.discord {
+    width: 200px;
+    height: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: gray;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
